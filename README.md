@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/aszcoding/Order-Summary-Component/]
+- Solution URL: [https://github.com/aszcoding/Order-Summary-Component]
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
