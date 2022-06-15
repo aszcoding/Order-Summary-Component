@@ -126,7 +126,7 @@ h2 + p{
 }
 
 .change{
-    background-color: hsl(225, 100%, 94%, .4);
+    background-color: transparent;
     font-weight: 700;
     color:hsl(245, 75%, 52%);
     text-decoration:underline;
