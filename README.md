@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/aszcoding/Order-Summary-Component]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://aszcoding.github.io/Order-Summary-Component/]
 
 ## My process
 I started with the mobile design first, added the active states, and coded the media queries last.
